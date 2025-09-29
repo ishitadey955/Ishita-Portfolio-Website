@@ -46,3 +46,34 @@ Ishita-Portfolio-Website-main/
 │── tailwind.config.js
 │── README.md
 
+
+> ⚠️ Note: Replace placeholder directories/files with your actual structure once you verify.
+
+---
+
+## ⚙️ Installation & Setup
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/ishitadey955/Ishita-Portfolio-Website.git
+   cd Ishita-Portfolio-Website
+2. Install dependencies
+npm install
+3. Run the development server
+npm run dev
+
+🤝 Contributing
+
+1. Fork the repo
+
+2. Create a branch: git checkout -b feature/your-feature
+
+3. Make your changes & commit: git commit -m "Add your feature"
+
+4. Push branch: git push origin feature/your-feature
+
+5. Open a Pull Request
+
+📜 License
+
+This project is licensed under the MIT License.
