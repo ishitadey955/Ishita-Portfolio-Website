@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from "react";
 import { Github, ExternalLink, Eye } from "lucide-react";
 import LuminaeImg from '../../assets/screenshot/Luminae.jpeg';
-import ZenFitImg from '../../assets/screenshot/Zenfit.jpeg';
+import ZenFitImg from '../../assets/screenshot/ZenFit.jpeg';
 import InvisibilityCloakImg from '../../assets/screenshot/InvisibilityCloak.jpeg';
-import SnakeImg from '../../assets/screenshot/Snake.jpeg';
+
 
 const PortfolioSection = () => {
   const [visibleCards, setVisibleCards] = useState(new Set());
