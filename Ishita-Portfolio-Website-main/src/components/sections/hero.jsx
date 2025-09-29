@@ -1,5 +1,5 @@
 import { useRef, useState, useEffect } from 'react';
-import LetterGlitch from '../common/LetterGlitch';
+import LetterGlitch from '../common/letterGlitch';
 import FloatingParticles from '../common/floatingParticles';
 import Lanyard from '../common/lanyard';
 import Squares from '../common/squares';
