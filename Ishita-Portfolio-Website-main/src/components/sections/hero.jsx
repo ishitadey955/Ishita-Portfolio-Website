@@ -21,8 +21,8 @@ const HeroSection = ({ scrollToSection, heroBackgroundRef, modelContainerRef }) 
 
   const handleDownloadCV = () => {
     const link = document.createElement('a');
-    link.href = '/cv/ISHITA_DEY_RESUME.pdf'; 
-    link.download = 'ISHITA_DEY_RESUME.pdf';
+    link.href = '/cv/ISHITA DEY RESUME.pdf'; 
+    link.download = 'ISHITA DEY RESUME.pdf';
     link.target = '_blank';
     document.body.appendChild(link);
     link.click();
